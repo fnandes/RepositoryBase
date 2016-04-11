@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>RepositoryBase</id>
+    <version>0.1.0</version>
+    <authors>Pedro Henrique B. Fernandes</authors>
+    <owners>Buy4</owners>
+    <projectUrl>https://github.com/pedrohfernandes/RepositoryBase</projectUrl>
+    <licenseUrl>https://raw.githubusercontent.com/pedrohfernandes/RepositoryBase/master/LICENSE</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <title>RepositoryBase</title>
+    <summary>A simple but powerful generic repository implementation using Entity Framework.</summary>
+    <description>A simple but powerful generic implementation of repository pattern using Entity Framework.</description>
+    <releaseNotes></releaseNotes>
+    <copyright>Copyright 2016</copyright>
+    <tags>entity-framework generic-repository repository-pattern</tags>
+  </metadata>
+  <files>
+    <file src="src/RepositoryBase/bin/Release/Dlp.Buy4.RepositoryBase.dll" target="lib\net45" />
+    <file src="src/RepositoryBase/bin/Release/Dlp.Buy4.RepositoryBase.xml" target="lib\net45" />
+  </files>
+</package>

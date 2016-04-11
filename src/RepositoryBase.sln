@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepositoryBase", "RepositoryBase\RepositoryBase.csproj", "{F4F31134-71C4-4F58-AC02-CB3673853F17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepositoryBase.Tests", "RepositoryBase.Tests\RepositoryBase.Tests.csproj", "{0DD31F34-68D8-45C1-ACF7-4FC9B2B7DC6C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4F31134-71C4-4F58-AC02-CB3673853F17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4F31134-71C4-4F58-AC02-CB3673853F17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4F31134-71C4-4F58-AC02-CB3673853F17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4F31134-71C4-4F58-AC02-CB3673853F17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DD31F34-68D8-45C1-ACF7-4FC9B2B7DC6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DD31F34-68D8-45C1-ACF7-4FC9B2B7DC6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DD31F34-68D8-45C1-ACF7-4FC9B2B7DC6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DD31F34-68D8-45C1-ACF7-4FC9B2B7DC6C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
